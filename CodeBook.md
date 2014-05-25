@@ -19,6 +19,8 @@ experiment participant (id)
 
 ### features
 
+Column numbers are extracted from the original data file, ``
+
 | feature column number | feature column name |
 |----------------------:|:--------------------:|
 |   1| tBodyAcc-mean()-X |
@@ -88,7 +90,9 @@ experiment participant (id)
 | 542| fBodyBodyGyroJerkMag-mean() |
 | 543| fBodyBodyGyroJerkMag-std() |
 
+### Note:
 
+I chose to exclude `meanFreq()` quantities, since they are not the same type of measurement as `mean()` (if I understand correctly the original README.md) 
          
          
          
