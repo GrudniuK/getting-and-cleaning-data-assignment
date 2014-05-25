@@ -19,7 +19,7 @@ experiment participant (id)
 
 ### features
 
-Column numbers are extracted from the original data file, ``
+Column numbers are extracted from the original data file, `UCI HAR Dataset/features.txt`
 
 | feature column number | feature column name |
 |----------------------:|:--------------------:|
