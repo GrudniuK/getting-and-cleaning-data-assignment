@@ -1,3 +1,5 @@
 corpus.zip
-output/*.csv
+output/whole_dataset_with_descriptive_activity_names.csv
 UCI\ HAR\ Dataset
+#run_analysis.R#
+.#run_analysis.R
